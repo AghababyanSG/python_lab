@@ -2,7 +2,7 @@ from turtle import *
 import numpy as np
 
 shape('turtle')
-speed(10000)
+speed('fastest')
 
 
 def polygon(step1, angle1):
